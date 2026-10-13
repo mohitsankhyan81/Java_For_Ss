@@ -6,3 +6,4 @@
 // l5 ?delete from begin
 // l6 ?delete from end
 // l7 ?specific Node delete
+// l8 ?reverse the linkedlist
